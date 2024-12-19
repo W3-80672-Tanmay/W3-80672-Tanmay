@@ -26,11 +26,12 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a MCA  student at RGPV, Bhopal
-- 🌱 I’m currently exploring JAVASCRIPT with a big interest in REACT and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [CoderByPassion702@gmail.com](mailto:CoderByPassion702@gmail.com).
+- 👨🏽‍💻 I’m currently a .NET Developer at 3Di Systems, Pune.
+- 🎓 CDAC Certified from [Sunbeam Pune 2024].
+- 🌱 I’m passionate about exploring .NET technologies, React.js, and Data Structures & Algorithms.
+- 🤔 My main focus is on backend development, React.js for front-end, and solving complex DSA problems.
+- 💬 Ask me anything, I love to share my knowledge and help!
+- 📫 Feel free to reach out to me at [tanmaysaxena206@gmail.com](mailto:tanmaysaxena206@gmail.com).
 
 
 
